@@ -1,4 +1,4 @@
-# Social-Network-Simulation
+# Random-Graph-Simulation
 
 在[六個人的小世界](https://www.books.com.tw/products/0010246961)一書中，曾經描述這樣一個問題:
 ```bash
